@@ -1,0 +1,11 @@
+{
+    "description": "riko.is-a.dev",
+    "repo": "https://github.com/RikoSnapse/RikoSnapse.github.io",
+    "owner": {
+        "username": "RikoSnapse",
+        "email": "rikosnapse@gmail.com"
+    },
+    "record": {
+        "CNAME": "RikoSnapse.github.io"
+    }
+}
